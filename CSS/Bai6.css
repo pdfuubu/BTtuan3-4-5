@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 70%;
+    max-width: 60%;
+    margin: auto;
+    padding-top: 20px;
+    border: 2px solid antiquewhite;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+.newspaper{
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    column-rule-color: lightblue;
+}

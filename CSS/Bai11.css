@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 70%;
+    max-width: 60%;
+    margin: auto;
+    padding-top: 20px;
+   
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    display: block;
+    width: 60%;
+    height: 100px;
+    background-color: green;
+    color: #fff;
+}

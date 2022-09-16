@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 80%;
+    max-width: 60%;
+    height: 290px;
+    margin: auto;
+    padding-top: 20px;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+}
+
+#hinh1 {
+    float: left;
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+#hinh2 {
+    float: left;
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+#hinh3 {
+    float: left;
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+#hinh4 {
+    float: left;
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+#container img:hover {
+    transform: scale(2) rotate(30deg);
+    -webkit-transform: scale(2) rotate(360deg);
+    -o-transform: scale(2) rotate(360deg);
+    -ms-transform: scale(2) rotate(360deg);
+}

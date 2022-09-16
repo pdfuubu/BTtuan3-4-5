@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container1{
+    width: 50%;
+    max-width: 50%;
+    padding: 10px;
+    border: 2px solid antiquewhite;
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+#doan1{
+    text-indent: 1cm;/*Thụt vào đầu dòng*/
+    color: red;
+    text-align: justify;
+}
+#doan2{
+    text-align: right;
+    color: blue;
+}
+#doan3{
+    text-align: center;
+    color: green;
+}
+#doan4{
+    text-align: left;
+    color: brown;
+}
+#doan5{
+    text-align: left;
+    color: pink;
+    text-decoration: underline;
+}
+#doan6{
+    text-align: left;
+    color: purple;
+    text-decoration: line-through;
+}
+#doan7{
+    text-align: left;
+    color: red;
+    text-decoration: overline;
+}
+#doan8 {
+    text-align: left;
+    color: blue;
+    text-decoration: blink;
+    text-shadow: 4px 4px 8px blue;
+
+}
+#container2{
+    width: 50%;
+    max-width: 50%;
+    padding: 10px;
+    border: 2px solid rgba(182, 174, 174, 0.39);
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+#dong1{
+    border: 2px solid purple;
+    clear: both;
+}
+#dong2{
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+/* .txtinsetshadow {
+    width: 33%;
+    text-align: center;
+    font-size: 20px;
+    height: 30px;
+    
+    color: purple;
+    background-color: #dd5ebd;
+    letter-spacing: .1em;
+
+  } */

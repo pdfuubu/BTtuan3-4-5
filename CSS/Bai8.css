@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 70%;
+    max-width: 60%;
+    margin: auto;
+    padding-top: 20px;
+    font-size: x-large;
+    
+}
+#cau_a{
+    border: 2px solid white;
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 290px;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+#cau_a .border{
+    border: 8px solid;
+    border-bottom-color: blue;
+    border-top-color: green ;
+    border-left-color: pink;
+    border-right-color: yellow;
+    text-align: center;
+    float: right;
+}
+#cau_b{
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 290px;
+    padding-left: 20px;
+}
+#cau_b .border{
+    border-bottom: 8px groove blue;
+    border-top: 8px solid green ;
+    border-left:8px double pink;
+    border-right: 8px dotted yellow;
+    text-align: center;
+    float: right;
+}
+#cau_c{
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 250px;
+    padding-left: 20px;
+}
+#cau_c .border{ 
+    border-top: 5px solid green ;
+    border-right: 10px solid yellow;
+    border-bottom: 15px solid blue;
+    border-left:20px solid pink;
+    text-align: center;
+    float: right;
+}
+#cau_d{
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 250px;
+    padding-left: 20px;
+}
+#cau_d .border{ 
+    border-top: 10px solid green ;
+    border-right: 10px solid yellow;
+    border-bottom: 10px solid blue;
+    border-left: 10px solid pink;
+    text-align: center;
+    float: right; 
+    border-top-left-radius: 0px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 70px;
+    border-bottom-left-radius: 20px;
+}
+
+#cau_e{
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 250px;
+    padding-left: 20px;
+}
+#cau_e #adv-hemisphere{ 
+    border-width: 4px 30px 4px 30px;
+    border-style: groove ridge dashed groove;
+    border-color: #cc0000;
+    border-radius: 100px 100px 0 0;
+    -moz-border-radius:100px 100px 0 0;
+    -webkit-box-radius:100px 100px 0 0;
+    
+}
+#cau_f{
+    box-shadow: 10px 10px 10px 10px gray;
+    height: 250px;
+    padding-left: 20px;
+}
+#cau_f #round-rectangle{ 
+  border-radius: 20px;
+  -moz-border-radius :20px;
+  -webkit-box-radius:20px; 
+}

@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 50%;
+    max-width: 60%;
+    margin: auto;
+    padding-top: 20px;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+#hashtag {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    border: 2px solid rgb(238, 183, 197);
+    background-color: red;
+    float: left;
+    margin-top: 20px;
+    margin-left: -20px;
+    color: white;
+}
+
+#titile {
+    text-shadow: 0 0 3px #000000, 3px 0 3px #000000, 0 3px 3px #000000, -3px 0 3px #000000, 0 -3px 3px #000000;
+    clear: both;
+    font-size: xx-large;
+    font-weight: 900px;
+}
+
+#content {
+    margin-top: 60px;
+}

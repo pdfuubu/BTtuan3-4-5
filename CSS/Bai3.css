@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 40%;
+    max-width: 60%;
+    padding: 10px;
+    border: 2px solid rgba(182, 174, 174, 0.39);
+    margin: auto;
+    box-shadow: 10px 10px 10px 10px gray;
+    font-size: x-large;
+    margin-top: 20px;
+}
+tr,td,td{
+    border: 2px solid white;
+
+}
